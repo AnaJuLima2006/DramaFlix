@@ -64,7 +64,7 @@ E o melhor? Ele ficou até melhor do que eu imaginei no começo. ✨
 
 ## 🎥 Demonstração em vídeo
 
-[![Assista ao app em ação no YouTube](https://img.youtube.com/vi/406Q7d0F3OQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=406Q7d0F3OQ)
+[![Assista ao app em ação no YouTube](https://img.youtube.com/vi/406Q7d0F3OQ/hqdefault.jpg)](https://www.youtube.com/watch?v=406Q7d0F3OQ)
 
 > Veja como o DramaFlix funciona na prática! Interface fluida, doramas sortudos e muito amor por trás de cada linha de código 💖
 
