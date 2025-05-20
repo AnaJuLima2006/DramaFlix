@@ -80,4 +80,4 @@ Quero agradecer ao meu professor **Gabriel Augusto Azevedo**, que com todo seu c
 
 ...o **DramaFlix** tá te esperando! 🎬💕
 
-### #JetpackCompose #AndroidDev #Kotlin #DevLife #UIUX #Figma #Dorama #DramaFlix
+
